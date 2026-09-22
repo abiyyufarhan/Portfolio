@@ -127,6 +127,6 @@ Proyek ini didistribusikan untuk keperluan portofolio pribadi. Jika Anda ingin m
 
 <div align="center">
 
-Dibuat dengan ❤️ menggunakan HTML, Tailwind CSS & Three.js oleh **Abiyyu Farhan**
+Dibuat dengan ❤️ menggunakan HTML, Tailwind CSS & Three.js
 
 </div>
